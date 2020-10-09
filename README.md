@@ -1,1 +1,1 @@
-# MACD_stock_trading
+# MACD Stock Trading
